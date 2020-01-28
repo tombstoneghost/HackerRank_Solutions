@@ -11,4 +11,4 @@ Find here with the HackerRank Solutions of the Following Langauges.
 
 * All Challenges are not done till now and the Repository will be updated daily on the challenges solved.
 
-#C and C++ are 100%
+* C and C++ are 100%
