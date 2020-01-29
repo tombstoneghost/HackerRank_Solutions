@@ -1,4 +1,4 @@
-# HackerRank_Solutions
+# HackerRank Solutions
 
 Find here with the HackerRank Solutions of the Following Langauges.
 
