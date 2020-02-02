@@ -10,5 +10,3 @@ Find here with the HackerRank Solutions of the Following Langauges.
 6. 10 Days of JS
 
 * All Challenges are not done till now and the Repository will be updated daily on the challenges solved.
-
-* C and C++ are 100%
